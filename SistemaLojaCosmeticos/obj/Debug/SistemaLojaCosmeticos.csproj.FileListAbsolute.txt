@@ -1,0 +1,249 @@
+D:\Vitor\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+D:\Vitor\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+D:\Vitor\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+D:\Vitor\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+D:\Vitor\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+D:\Vitor\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+D:\Vitor\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+D:\Vitor\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+D:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+D:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+D:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+E:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+E:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+E:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+E:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+E:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+E:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+E:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+E:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+E:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+E:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+D:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+D:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+D:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+D:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+D:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+E:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+E:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+E:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+E:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+E:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendas.resources
+D:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+D:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+D:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+D:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+D:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+D:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+D:\Aula Renata\MATERIAL AULAS\ExerciciosBD\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendas.resources
+E:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+E:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+E:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+D:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+D:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+D:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+D:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+D:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+D:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+D:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+D:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+D:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+D:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+D:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+D:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+D:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendas.resources
+D:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+D:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+K:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+K:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+K:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+K:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+K:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+K:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+K:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+K:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+K:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+K:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+K:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+K:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+K:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendas.resources
+K:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+K:\SistemaLojaCosmeticos2\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendas.resources
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsProduto.resources
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelMarca.resources
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\RdlCompile.cache
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\RdlCompile.compiled
+D:\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCliente.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsProduto.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCliente.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelMarca.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\RdlCompile.cache
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\RdlCompile.compiled
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsProduto.resources
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCliente.resources
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelMarca.resources
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendas.resources
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\RdlCompile.cache
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\RdlCompile.compiled
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\projeto\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendaCliGrid.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCargo.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsCargo.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsCategoria.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsCliente.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsFuncionarios.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsMarca.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelFuncionarios.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCargo.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCategoria.resources
+D:\SistemaLojaCosmeticos3\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelProduto.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojResolveAssemblyReference.cache
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCargo.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsCargo.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsCategoria.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsCliente.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsFuncionarios.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsMarca.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsProduto.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCargo.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCategoria.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCliente.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelFuncionarios.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelMarca.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelProduto.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendaCliGrid.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.Cache
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\RdlCompile.cache
+E:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\RdlCompile.compiled
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe.config
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.exe
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\bin\Debug\SistemaLojaCosmeticos.pdb
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csprojAssemblyReference.cache
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCargo.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmCategoria.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmClientes.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsCargo.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsCategoria.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsCliente.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsFuncionarios.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsMarca.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmConsProduto.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmFuncionarios.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmMarca.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmPrincipal.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmProduto.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCargo.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCategoria.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelCliente.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelFuncionarios.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelMarca.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmRelProduto.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.frmVendaCliGrid.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.Properties.Resources.resources
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.GenerateResource.cache
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.CoreCompileInputs.cache
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.csproj.CopyComplete
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.exe
+D:\projeto_Douglas\SistemaLojaCosmeticos\SistemaLojaCosmeticos\obj\Debug\SistemaLojaCosmeticos.pdb
